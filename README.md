@@ -2,7 +2,7 @@
 - 👀 I’m interested in Data Science, Web Development and coding in general 
 - 🌱 I’m currently learning Data Science with Python(Pandas, numpy, scikit-learn, Mathplotlib, MongoDB) and MySQL
 - 💞️ I’m looking to collaborate on projects in Data Science, Web Development or any other project related to my interest mentioned above.
-- 📫 You can reach me on omorol@yahoo.com, +23468687204(WhatsApp / Call)
+- 📫 You can reach me on omorol@yahoo.com, omowomaroland@gmail.com, +23468687204(Call) or +2348140178982(WhatsApp)
 -    Thank you!
 -    
 <!---
